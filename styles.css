@@ -101,6 +101,11 @@ button:hover {
   box-shadow: 0 0 1px rgb(80, 80, 80);
 }
 
+input:hover {
+  cursor: pointer;
+  box-shadow: 0 0 1px rgb(80, 80, 80);
+}
+
 
 footer {
   background-color: #F2F2F2;
